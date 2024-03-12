@@ -8,7 +8,7 @@ An awesome list of hackers I must give credit to.
 - [Perfare](https://github.com/perfare)
 - [Knah](https://github.com/knah)
 - [Bepis](https://github.com/bbepis)
-- [LavaGang](https://github.com/lavagang) - ESPECIALLY my goats [HerpDerpinstine](https://github.com/HerpDerpinstine) and[RinLovesYou] (https://github.com/RinLovesYou)
+- [LavaGang](https://github.com/lavagang) - ESPECIALLY my goats [HerpDerpinstine](https://github.com/HerpDerpinstine) and [RinLovesYou](https://github.com/RinLovesYou)
 
 ## Specialized (IL2CPP) - Affiliated
 
